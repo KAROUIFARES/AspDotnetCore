@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XTLxLAW4tCGJx64Qbh0euoyMmt8kClL/ti9owZkKaWQ=",
+  "Source": "AspDotnetCore",
+  "BasePath": "_content/AspDotnetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
